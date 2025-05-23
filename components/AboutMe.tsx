@@ -14,8 +14,7 @@ const AboutMe = () => {
           At the {" "}
           <span className="font-bold tracking-wider text-white">
             R.E.A.L. Limbs Lab
-          </span>{" "}
-          , we are dedicated to developing lower-limb prosthetic technology that is as advanced, 
+          </span>{" "}, we are dedicated to developing lower-limb prosthetic technology that is as advanced, 
           useful, and well-integrated as intact human limb anatomy. Ultimately, we are 
           motivated by the goal of enhancing the quality of life of those living with 
           amputation and 
