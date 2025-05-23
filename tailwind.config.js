@@ -15,7 +15,7 @@ module.exports = {
         "contact-image": "url('/assets/contact.jpg')",
       },
       colors: {
-        designColor: "#F7D449",
+        designColor: "#ba0c2f",
         textColor: "#aeaeae",
       },
       boxShadow: {
