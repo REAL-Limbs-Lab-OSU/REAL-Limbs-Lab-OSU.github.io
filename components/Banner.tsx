@@ -62,11 +62,11 @@ const Banner = () => {
           </h1>
           <div className="flex items-center gap-2 md:gap-6 text-base md:text-xl font-bold bg-designColor px-6 py-3">
             <h2 className="tracking-[4px]">Robotic.</h2>
-            <HiMinus className="text-2xl rotate-90" />
+{/*             <HiMinus className="text-2xl rotate-90" /> */}
             <h2 className="tracking-[4px]">Enabling.</h2>
-            <HiMinus className="text-2xl rotate-90" />
+{/*             <HiMinus className="text-2xl rotate-90" /> */}
             <h2 className="tracking-[4px]">Agile.</h2>
-            <HiMinus className="text-2xl rotate-90" />
+{/*             <HiMinus className="text-2xl rotate-90" /> */}
             <h2 className="tracking-[4px]">Lifelike.</h2>
           </div>
         </div>
