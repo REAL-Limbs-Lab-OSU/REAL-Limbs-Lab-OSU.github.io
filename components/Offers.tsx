@@ -1,8 +1,8 @@
 import React from "react";
 import { RxCopy } from "react-icons/rx";
-import { FaPersonWalking } from "react-icons/fa6";
 import { GiGears } from "react-icons/gi";
 import { LuBrainCircuit } from "react-icons/lu";
+import { FaPersonWalking } from "react-icons/fa6";
 import { SiAntdesign } from "react-icons/si";
 import { FaChartPie, FaConnectdevelop } from "react-icons/fa";
 import OfferCard from "./OfferCard";
