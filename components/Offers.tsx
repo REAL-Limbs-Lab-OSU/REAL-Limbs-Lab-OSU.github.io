@@ -9,11 +9,11 @@ const Offers = () => {
     <div className="bg-[#0F1113] text-white py-28">
       <div>
         <h1 className="text-3xl uppercase tracking-[6px] font-semibold text-center text-white">
-          Our core research pillars are
+          core research pillars
         </h1>
         <div className="w-full px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mt-20">
           <OfferCard
-            title="Biomimetic Control"
+            title="Biomimetic Control text-center"
             subTitle="We develop control systems that emulate natural human locomotion, enabling prosthetic 
             limbs that are intuitive, adaptive, reliable, and highly functional."
             Icon={RxCopy}
