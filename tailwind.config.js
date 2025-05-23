@@ -13,6 +13,7 @@ module.exports = {
       backgroundImage: {
         "hero-image": "url('/assets/bg.jpg')",
         "contact-image": "url('/assets/contact.jpg')",
+        "OSUEng-image": "url('/assets/OSUEng.svg')",
       },
       colors: {
         designColor: "#ba0c2f",
