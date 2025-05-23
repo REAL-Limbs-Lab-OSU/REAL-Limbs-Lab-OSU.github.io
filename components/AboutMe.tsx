@@ -8,10 +8,10 @@ const AboutMe = () => {
     >
       <div className="max-w-6xl mx-auto flex flex-col gap-6 md:gap-16">
         <h1 className="text-3xl uppercase font-semibold text-center">
-          A Story about me.
+          Our Mission
         </h1>
         <p className="text-xl md:text-3xl font-medium md:leading-relaxed text-textColor">
-          I'm{" "}
+{/*           I'm{" "}
           <span className="font-bold tracking-wider text-white">
             Sarah Jonson
           </span>{" "}
@@ -20,7 +20,20 @@ const AboutMe = () => {
           Ipsum is simply dummy text of the printing and typesetting industry.
           Lorem Ipsum has been the industry's standard dummy text ever since the
           1500s, when an unknown printer took a galley of type and scrambled it
-          to make a type specimen book.
+          to make a type specimen book. */}
+          At the {" "}
+          <span className="font-bold tracking-wider text-white">
+            R.E.A.L. Limbs Lab
+          </span>{" "}
+          , we are dedicated to developing lower-limb prosthetic technology that is as advanced, 
+          useful, and well-integrated as intact human limb anatomy. Ultimately, we are 
+          motivated by the goal of enhancing the quality of life of those living with 
+          amputation and 
+          {" "}
+          <span className="font-bold tracking-wider text-white">
+            closing the gap between prosthetic and biological limbs
+          </span>{" "}
+          .
         </p>
 {/*         <div className="w-[700px] grid grid-cols-1 md:grid-cols-2 gap-8">
           <AboutList title="Web design" />
