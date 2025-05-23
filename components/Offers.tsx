@@ -1,10 +1,9 @@
 import React from "react";
 import { RxCopy } from "react-icons/rx";
-import { GiGears } from "react-icons/gi";
-import { LuBrainCircuit } from "react-icons/lu";
-import { FaPersonWalking } from "react-icons/fa6";
+// import { GiGears } from "react-icons/gi";
+// import { LuBrainCircuit } from "react-icons/lu";
 import { SiAntdesign } from "react-icons/si";
-import { FaChartPie, FaConnectdevelop } from "react-icons/fa";
+import { FaChartPie, FaConnectdevelop, FaWalking } from "react-icons/fa";
 import OfferCard from "./OfferCard";
 
 const Offers = () => {
@@ -25,19 +24,19 @@ const Offers = () => {
             title="Prosthesis Design"
             subTitle="We engineer advanced prostheses that seek to integrate seamlessly with 
             the human body, enhancing functionality, mobility, and comfort through innovative design."
-            Icon={GiGears}
+            Icon={SiAntdesign}
           />
           <OfferCard
             title="Biomechanics Studies"
             subTitle="We analyze human movement patterns to inform the development of prosthetic 
             technologies that restore and augment user mobility."
-            Icon={FaPersonWalking}
+            Icon={FaWalking}
           />
           <OfferCard
             title="Human-Robot Interaction"
             subTitle="We design intuitive interfaces and study user–prosthesis interaction to ensure usefulness, 
             promote seamless integration, and enhance embodiment."
-            Icon={LuBrainCircuit}
+            Icon={FaConnectdevelop}
           />
         </div>
       </div>
