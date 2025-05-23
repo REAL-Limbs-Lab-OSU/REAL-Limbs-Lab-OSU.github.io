@@ -9,27 +9,31 @@ const Offers = () => {
     <div className="bg-[#0F1113] text-white py-28">
       <div>
         <h1 className="text-3xl uppercase tracking-[6px] font-semibold text-center text-white">
-          What I offer.
+          Our core research pillars are
         </h1>
         <div className="w-full px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mt-20">
           <OfferCard
-            title="BRANDING"
-            subTitle="Branding is visually stunning designs that will leave you speechless"
+            title="Biomimetic Control"
+            subTitle="We develop control systems that emulate natural human locomotion, enabling prosthetic 
+            limbs that are intuitive, adaptive, reliable, and highly functional."
             Icon={RxCopy}
           />
           <OfferCard
-            title="WEB DESIGN"
-            subTitle="Branding is visually stunning designs that will leave you speechless"
+            title="Prosthesis Design"
+            subTitle="We engineer advanced prostheses that seek to integrate seamlessly with 
+            the human body, enhancing functionality, mobility, and comfort through innovative design."
             Icon={SiAntdesign}
           />
           <OfferCard
-            title="Marketing"
-            subTitle="Branding is visually stunning designs that will leave you speechless"
+            title="Biomechanics Studies"
+            subTitle="We analyze human movement patterns to inform the development of prosthetic 
+            technologies that restore and augment user mobility."
             Icon={FaChartPie}
           />
           <OfferCard
-            title="Development"
-            subTitle="Branding is visually stunning designs that will leave you speechless"
+            title="Human-Robot Interaction"
+            subTitle="We design intuitive interfaces and study user–prosthesis interaction to ensure usefulness, 
+            promote seamless integration, and enhance embodiment."
             Icon={FaConnectdevelop}
           />
         </div>
