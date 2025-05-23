@@ -10,7 +10,7 @@ const AboutMe = () => {
         <h1 className="text-3xl uppercase font-semibold text-center">
           Our Mission
         </h1>
-        <p className="text-xl md:text-3xl font-medium md:leading-relaxed text-textColor">
+        <p className="text-xl md:text-3xl font-medium md:leading-relaxed text-center text-textColor">
           At the {" "}
           <span className="font-bold tracking-wider text-white">
             R.E.A.L. Limbs Lab
