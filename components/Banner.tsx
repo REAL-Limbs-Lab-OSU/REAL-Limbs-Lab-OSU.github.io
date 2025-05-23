@@ -51,9 +51,9 @@ const Banner = () => {
             onClick={() => setMenu(true)}
             className="w-8 h-6 group flex flex-col items-center justify-between cursor-pointer"
           >
-            <span className="w-full h-[3px] bg-designColor inline-flex group-hover:w-4 duration-300"></span>
-            <span className="w-full h-[3px] bg-designColor inline-flex"></span>
-            <span className="w-full h-[3px] bg-designColor inline-flex group-hover:w-4 duration-300"></span>
+            <span className="w-full h-[3px] bg-white inline-flex group-hover:w-4 duration-300"></span>
+            <span className="w-full h-[3px] bg-white inline-flex"></span>
+            <span className="w-full h-[3px] bg-white inline-flex group-hover:w-4 duration-300"></span>
           </div>
         </nav>
         <div className="w-full h-full flex flex-col justify-center items-center text-white px-4">
