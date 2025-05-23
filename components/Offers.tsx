@@ -13,7 +13,7 @@ const Offers = () => {
         </h1>
         <div className="w-full px-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mt-20">
           <OfferCard
-            title="Biomimetic Control text-center"
+            title="Biomimetic Control"
             subTitle="We develop control systems that emulate natural human locomotion, enabling prosthetic 
             limbs that are intuitive, adaptive, reliable, and highly functional."
             Icon={RxCopy}
