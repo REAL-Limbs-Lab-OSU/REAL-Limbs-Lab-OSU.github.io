@@ -47,6 +47,9 @@ const Banner = () => {
           <h1 className="font-bodyFont text-4xl text-white font-extrabold border-2 w-12 text-center">
             S
           </h1>
+          <div 
+            className="h-6 bg-OSUEng-image">
+          </div>
           <div
             onClick={() => setMenu(true)}
             className="w-8 h-6 group flex flex-col items-center justify-between cursor-pointer"
